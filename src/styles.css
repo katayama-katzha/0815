@@ -1,4 +1,14 @@
 .App {
   font-family: sans-serif;
-  text-align: center;
+
+}
+
+.areas{
+  padding:10px;
+}
+.incomplete-area{
+  background-color: gray;
+}
+.complete-area{
+  background-color: pink;
 }
